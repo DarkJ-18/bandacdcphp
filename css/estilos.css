@@ -4,11 +4,11 @@
 body{
   background: url(../imagenes/acdcfondo.jpg);
   background-color: transparent;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-color: rgb(0, 0, 0);
-  background-size: 25px 50px;
+  background-repeat: no-repeat; 
+  background-position: center center;   
+  background-attachment: fixed; 
+  background-color: rgb(0, 0, 0); 
+  background-size: 25px 50px; 
   background-size: 40% 40%;
 }
 
@@ -17,6 +17,7 @@ h1{
  /* color: rgb(253, 124, 2);*/
   -webkit-text-fill-color: rgb(253, 0, 0);
   -webkit-text-stroke: 1px rgba(228, 129, 0, 0.486); 
+  
 
   font-size: 300%;
   text-align:center;
